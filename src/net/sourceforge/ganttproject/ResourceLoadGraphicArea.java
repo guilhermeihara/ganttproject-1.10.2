@@ -1028,7 +1028,7 @@ public class ResourceLoadGraphicArea extends JPanel {
             GanttCalendar displayStart=date.Clone(),displayEnd=date.Clone();
             displayEnd.add(getGranit(true));
             
-            // prüfen ob task im sichtbaren Bereich
+            // prefen ob task im sichtbaren Bereich
             if (task.getStart().compareTo(displayStart)==-1 && task.getEnd().compareTo(date)==-1) {// Task is completely before display area
                 continue;
             }
@@ -1038,7 +1038,7 @@ public class ResourceLoadGraphicArea extends JPanel {
             
             // nicht nur der Tag auch der Monat muss gechecked werden
             
-//            Welche Struktur welche Daten ???? Wie die Tage über resourcen auftragen.
+//            Welche Struktur welche Daten ???? Wie die Tage uber resourcen auftragen.
 //            Start liegt vor Display Start also start=1
             
             int start;

@@ -1,0 +1,1 @@
+java -jar "/home/takahashi/Documents/Faculdade/Qualidade de Software/ganttproject-1.10.2\build\ganttproject-1.10.2.jar" %*

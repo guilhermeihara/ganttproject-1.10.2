@@ -7,12 +7,12 @@ import javax.swing.plaf.FontUIResource;
 import javax.swing.plaf.metal.DefaultMetalTheme;
 
 /**
- * Un nouveau thème Metal.
+ * Un nouveau theme Metal.
  */
 
 public class GanttMetalTheme extends DefaultMetalTheme
 {
-  // cette fonte sera utilisée pour TOUS nos composants
+  // cette fonte sera utilise pour TOUS nos composants
   private final FontUIResource font;
 
   public GanttMetalTheme(UIConfiguration config)

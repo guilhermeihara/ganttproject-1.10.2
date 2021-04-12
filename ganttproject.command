@@ -1,0 +1,1 @@
+java -Xdock:name="GanttProject":icon=ganttproject.gif -Xmaxf0.2 -Xminf0.2 -Dapple.laf.useScreenMenuBar=true -Xverify:none -Xms32m -Xmx128m -jar "/home/takahashi/Documents/Faculdade/Qualidade de Software/ganttproject-1.10.2/build/ganttproject-1.10.2.jar" $@
